@@ -1,6 +1,8 @@
 import React from 'react';
 import Hero from '../pages/Hero'; 
 import BurgerSession from '../layouts/BurgerSession';
+import Products from '../layouts/Products';
+
 
 const Home = () => {
   return (
@@ -11,6 +13,10 @@ const Home = () => {
     <div>
     <BurgerSession />
     </div>
+    <div>
+      <Products />
+    </div>
+  
        
     </>
   );

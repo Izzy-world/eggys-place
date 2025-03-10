@@ -5,9 +5,11 @@ import dropDownImg from "../assets/Drop-down-img.svg"
 import cartImg from "../assets/cart-img.svg"
 import loginImg from "../assets/login-img.svg"
   import { Link } from 'react-router-dom';
+  
 
 
 const Navbar = () => {
+
   return (
     <>
     <header className=' bg-[#100101]'>
@@ -25,7 +27,7 @@ const Navbar = () => {
             </form>
         </div>
         <div className='flex gap-4 items-center'>
-            <h2 className='font-[500] text-[20px] text-[#FBFBFB] hidden lg:block'>All Products</h2>
+            {/* <h2 className='font-[500] text-[20px] text-[#FBFBFB] hidden lg:block'>All Products</h2> */}
             <ul className='flex gap-4'>
             <li className="flex items-center h-[56px] py-[15px] px-[20px] bg-[#B67B0F] rounded-[32px]">
                 <img src={cartImg} alt="cart-img" /> <Link className="px-2 text-[#FBFBFB] font[500] text-[20px]"> <span className="hidden lg:inline-block">Cart</span> 0 </Link>
@@ -44,4 +46,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar
