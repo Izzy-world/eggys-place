@@ -5,7 +5,7 @@ const Hero = () => {
     <main 
       className="bg-[url('/hero-img-svg.svg')] bg-no-repeat bg-cover bg-center"
     >
-      <div className="relative w-full h-screen flex items-center justify-center px-6">
+      <div className="relative w-full h-screen flex items-center justify-center px-6 ">
         {/* Dark Overlay */}
         <div className="absolute inset-0 bg-opacity-50"></div>
 

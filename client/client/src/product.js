@@ -401,5 +401,5 @@ export const Combos =
     rating: "5.0",
     price: "10,000",
     duration: "15-20mins",
-  },
- ]
+  },
+ ]

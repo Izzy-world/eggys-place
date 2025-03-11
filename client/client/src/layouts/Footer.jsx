@@ -3,8 +3,8 @@ import footer from "../assets/footer-img.svg"
 import twitter from "../assets/twitter icon.svg"
 import facebook from "../assets/facebook icon.svg"
 import twitterIcon2 from "../assets/twitter icon-2.svg"
-import instagram from "../assets/instagram icon.svg"
-import youtube from "../assets/pause-icon.svg"
+import instagram from "../assets/instagram-icon.svg"
+import youtube from "../assets/youtube-icon.svg" 
 
 const Footer = () => {
   return (

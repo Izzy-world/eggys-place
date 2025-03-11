@@ -5,6 +5,7 @@ import Navbar from './layouts/Navbar';
 import { Home } from './routes/routes';
 import Footer from './layouts/Footer';
 import  LoadingRing  from './utils/Loader';
+import Product from './pages/Product';
 
 
 
@@ -16,6 +17,7 @@ function App() {
     <Navbar/>
     <Routes>
       <Route path='/' element= {<Home/>} />
+      <Route path='/product/:id' element={<Product/>}/>
 
     </Routes>
     <Footer/>

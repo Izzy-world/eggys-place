@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
 @import "tailwindcss";
 @plugin "daisyui";
+import 'animate.css';
 
 @theme{
   

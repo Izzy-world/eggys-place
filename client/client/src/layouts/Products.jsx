@@ -8,6 +8,7 @@ import {
   salad,
   allProducts,
 } from "../product";
+import { Link } from "react-router-dom";
 
 const Products = () => {
   const [selectedCategorys, setSelectedCategory] = useState(burgers);
@@ -88,16 +89,19 @@ const Products = () => {
 
       {/* Section-2 */}
       <section className="w-full min-h-screen px-[20px] md:px-[80px] py-[10px] lg:px-[130px] lg:py-[16px] flex justify-center bg-[#2F2F2F]">
-  <div className="grid md:grid-cols-2 lg:grid-cols-3 lg:gap-y-[54px] lg:gap-x-[15px] gap-[44.46px] w-full max-w-[1440px]">
+  <div className="grid md:grid-cols-2 lg:grid-cols-3 lg:gap-y-[20px] lg:gap-x-[8px] gap-[20px] w-full max-w-[1440px]">
     {selectedCategorys.map((product) => {
       const { _id, image, title, ratingicon, rating, price, duration } = product;
 
       return (
         <div key={_id} className="card-container">
           <div className="card bg-[#252422] text-[#FBFBFB] p-3 w-full mx-auto shadow-sm">
+            <Link to={`/product/${_id}`}>
             <figure>
               <img src={image} alt={title} className="product-image" />
             </figure>
+            </Link>
+            
             {/* Card Body */}
             <div className="card-body">
               {/* Title and Rating */}
