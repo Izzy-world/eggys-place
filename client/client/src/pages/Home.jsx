@@ -1,23 +1,20 @@
-import React from 'react';
-import Hero from '../pages/Hero'; 
-import BurgerSession from '../layouts/BurgerSession';
-import Products from '../layouts/Products';
+import React from "react";
+import Hero from "../pages/Hero"; 
+import BurgerSession from "../layouts/BurgerSession"; 
+import Products from "../layouts/Products";
 
-
-const Home = () => {
+const Home = ({ handleAddToCart }) => {
   return (
     <>
-    <div>
-    <Hero />
-    </div>
-    <div>
-    <BurgerSession />
-    </div>
-    <div>
-      <Products />
-    </div>
-  
-       
+      <div>
+        <Hero />
+      </div>
+      <div>
+        <BurgerSession />
+      </div>
+      <div>
+        <Products handleAddToCart={handleAddToCart} />
+      </div>
     </>
   );
 };
