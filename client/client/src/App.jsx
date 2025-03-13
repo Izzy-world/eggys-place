@@ -10,44 +10,37 @@ import Product from "./pages/Product";
 import { Toaster, toast } from 'sonner';
 
 
+
+// const cartItemsFromLocalStorage = JSON.parse(localStorage.getItem('cart')) || []
+
+
 function App() {
-  const [cart, setCart] = useState([]);
-
-  // Load cart from localStorage on mount
-  useEffect(() => {
-    const storedCart = localStorage.getItem("cart");
-    if (storedCart) {
-      try {
-        setCart(JSON.parse(storedCart));
-      } catch (error) {
-        console.error("Error parsing cart data:", error);
-        setCart([]);
-      }
-    }
-  }, []);
-
-  // Save cart to localStorage whenever it changes
-  useEffect(() => {
-    localStorage.setItem("cart", JSON.stringify(cart));
-  }, [cart]);
-
-  console.log(cart);
-
-  // Function to handle adding items to the cart
-  const handleAddToCart = (product) => {
-    const productSelected = cart.find((item) => item._id === product._id);
-    if (productSelected) {
-      setCart(
-        cart.map((item) =>
-          item._id === product._id
-            ? { ...productSelected, quantity: productSelected.quantity + 1 }
-            : item
-        )
-      );
-    } else {
-      setCart([...cart, { ...product, quantity: 1 }]);
-    }
-  };
+  // const [cart, setCart] = useState(cartItemsFromLocalStorage);
+  //   useEffect(()=>{
+  //     localStorage.setItem('cart',JSON.stringify(cart))
+  
+  //   },[cart])
+  //   console.log(cart);
+    
+  //   let handleAddToCart = (product) => {
+  //     const productSelected = cart.find(
+  //       (singleCart) => singleCart._id === product._id
+  //     );
+  //     if (productSelected) {
+  //       setCart(
+  //         cart.map((oneItem) =>
+  //           oneItem._id === product._id
+  //             ? {
+  //                 ...productSelected,
+  //                 quantity: productSelected.quantity + 1,
+  //               }
+  //             : oneItem
+  //         )
+  //       );
+  //     } else {
+  //       setCart([...cart, { ...product, quantity: 1 }]);
+  //     }    
+  //   };
 
   return (
     <>
@@ -59,11 +52,11 @@ function App() {
           </div>
         }
       >
-        <Navbar cart={cart} setCart={setCart} />
+        <Navbar  />
         <Routes>
-          <Route path="/" element={<Home handleAddToCart={handleAddToCart} />} />
+          <Route path="/" element={<Home />} />
           <Route path="/product/:id" element={<Product />} />
-          <Route path="cart" element={<Cart cart={cart} setCart={setCart}/>}/>
+          <Route path="cart" element={<Cart/>}/>
         </Routes>
         <Footer />
       </Suspense>

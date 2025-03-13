@@ -1,10 +1,12 @@
-import React, { useState } from "react";
-import { burgers, Combos, drinks, chickens, chips, salad } from "../product";
+import React, { useContext, useState} from "react";
+import { burgers, Combos, drinks, chickens, chips, salads } from "../product";
 import { Link } from "react-router-dom";
 import { toast } from "sonner";
+import CartContext from "../context/CartContext";
 
-const Products = ({ handleAddToCart }) => {
+const Products = () => {
   const [selectedCategorys, setSelectedCategory] = useState(burgers);
+  const {handleAddToCart} = useContext(CartContext)
 
   return (
     <>
@@ -24,7 +26,7 @@ const Products = ({ handleAddToCart }) => {
           </a>
           <a
             onClick={() => setSelectedCategory(Combos)}
-            href="#combos"
+            href="#Combos"
             className="carousel-item flex flex-col items-center text-[25px] text-[#aeaea7] hover:text-white opacity-70 hover:opacity-100"
           >
             <img
@@ -67,7 +69,7 @@ const Products = ({ handleAddToCart }) => {
             <p>Chips</p>
           </a>
           <a
-            onClick={() => setSelectedCategory(salad)}
+            onClick={() => setSelectedCategory(salads)}
             href="#salads"
             className="carousel-item flex flex-col items-center text-[25px] text-[#aeaea7] hover:text-white opacity-70 hover:opacity-100"
           >

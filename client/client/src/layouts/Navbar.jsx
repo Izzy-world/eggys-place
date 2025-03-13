@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import eggysLogo from "../assets/eggys-logo.svg";
 import locationImg from "../assets/location-img.svg";
 import dropDownImg from "../assets/Drop-down-img.svg";
@@ -6,9 +6,12 @@ import cartImg from "../assets/cart-img.svg";
 import loginImg from "../assets/login-img.svg";
 import searchIcon from "../assets/search-iconn.svg";
 import { Link } from "react-router-dom";
-import AuthModal from "../auth/AuthModal"; // Import the modal
+import AuthModal from "../auth/AuthModal"; 
+import CartContext from "../context/CartContext";
 
-const Navbar = ({ cart = [] }) => {
+const Navbar = () => {
+  const [isLoggedIn,setIsloggedIn] = useState(!false)
+  const {cart} = useContext (CartContext)
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
 
   return (
@@ -16,19 +19,20 @@ const Navbar = ({ cart = [] }) => {
       <header className="bg-[#100101]">
         <nav className="container mx-auto px-[20px] md:px-[80px] py-[10px] lg:px-[130px] lg:py-[16px] flex justify-between items-center">
           <div className="flex gap-4 items-center">
-            <div>
+            
             <Link to="/">
               <img src={eggysLogo} alt="eggys-logo" className="w-full h-auto" />
             </Link>
 
-            </div>
-            
+            <div>
             <img
               src={locationImg}
               alt="location-img"
               className="w-full h-auto hidden md:block"
             />
 
+            </div>
+            
             <h4 className="text-[#F0F0F0] text-[20px] font-[500] hidden md:block">
               Location
             </h4>
@@ -58,18 +62,21 @@ const Navbar = ({ cart = [] }) => {
                 className="flex items-center w-[56px] md:w-[124px] h-[56px] py-[15px] px-[20px] bg-[#F0F0F0] rounded-[32px] cursor-pointer"
                 onClick={() => setIsAuthModalOpen(true)}
               >
+                {isLoggedIn ? "Hi Eggys" :<Link>
                 <img src={loginImg} alt="login-img" />
                 <span className="ps-2 text-[#100101] font-[500] text-[20px] hidden md:inline">
                   Login
                 </span>
+                {/* Auth Modal */}
+      <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
+      </Link>}
               </li>
             </ul>
           </div>
         </nav>
       </header>
 
-      {/* Auth Modal */}
-      <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
+      
     </>
   );
 };

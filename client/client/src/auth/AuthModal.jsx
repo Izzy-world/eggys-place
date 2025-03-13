@@ -4,6 +4,7 @@ import signupLogo from "../assets/signup-logo.svg";
 
 const AuthModal = ({ isOpen, onClose }) => {
   const [isSignUp, setIsSignUp] = useState(true);
+  
   const {
     register,
     handleSubmit,
