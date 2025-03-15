@@ -8,9 +8,10 @@ export const burgers =
       title: "Cheese burger",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "10000",
+      price: "10,000",
       duration: "15-20mins",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+      category: "burgers",
+      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
     },
 
     {
@@ -19,9 +20,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating:"5.0",
-        price: "10000",
-        duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic." ,
+        price: "10,000",
+        duration: "15-20mins",  
+        category: "burgers",
+        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
     },
 
     {
@@ -30,9 +32,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
 
       {
@@ -41,9 +44,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
 
       {
@@ -52,9 +56,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
 
       {
@@ -63,9 +68,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
 
       {
@@ -74,9 +80,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
 
       {
@@ -85,9 +92,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10,000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       },
       
       {
@@ -96,9 +104,10 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10000",
+        price: "10.000",
         duration: "15-20mins",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+         category: "burgers",
+         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       }
 ]
 
@@ -110,9 +119,10 @@ export const Combos =
     title: "Combo",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "Combos",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
 
@@ -122,9 +132,10 @@ export const Combos =
      title: "Combo",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price: "15000",
+     price: "15,000",
      duration: "15-20mins",
-     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+     category: "Combos",
+     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
 
   {
@@ -133,9 +144,10 @@ export const Combos =
      title: "Combo",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price:  "15000",
+     price:  "15,000",
      duration: "15-20mins",
-     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+     category: "Combos",
+     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
       _id: 13,
@@ -143,9 +155,10 @@ export const Combos =
       title: "Combo",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "15000",
+      price: "15,000",
       duration: "15-20mins",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+      category: "salads",
+      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
       
   },
   
@@ -159,9 +172,10 @@ export const Combos =
       title: "Chicken",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "15000",
+      price: "15,000",
       duration: "15-20mins",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+      category: "chicken",
+      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   {
@@ -170,9 +184,10 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration:  "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "chicken",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   {
@@ -181,9 +196,10 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "chicken",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
     _id: 17,
@@ -191,14 +207,15 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "chicken",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   
  ]
-
+ 
 
  export const drinks =
  [
@@ -208,9 +225,10 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "drinks",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   {
@@ -219,9 +237,11 @@ export const Combos =
      title: "Drinks",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price: "15000",
+     price: "15,000",
      duration: "15-20mins",
-     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+     category: "drinks",
+     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+
   },
   {
     _id: 20,
@@ -229,9 +249,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "drinks",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+
   },
 
   {
@@ -240,9 +262,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "drinks",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+
   },
   {
     _id: 22,
@@ -250,9 +274,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5,0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "drinks",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+
   }
 
  ]
@@ -265,9 +291,10 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:"5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    chips: "chips",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
     _id: 24,
@@ -275,9 +302,10 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    chips: "chips",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
     _id: 25,
@@ -285,9 +313,10 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    chips: "chips",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
     _id: 26,
@@ -295,56 +324,146 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:  "5.0",
-    price: "15000",
+    price: "15,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    chips: "chips",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   }
  ]
 
- 
+ export const allProducts =
+ [
+  {
+    _id: 27,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468726/allproduct1_s7nrjv.svg",
+    title: "Cheese Burger",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "15,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 28,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468682/allproducts3_u7pp7b.svg",
+    title: "Mozeralla Sticks",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "15,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 29,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468677/allproducts2_qlbreo.svg",
+    title: "BBQ Glazed Chicken",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "15,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 30,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468675/allproducts4_q4y6ou.svg",
+    title: "Greek Salad",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "15,000",
+    duration: "15-20mins",
+
+  },
+  {
+    _id: 31,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468665/allproducts5_oy30nd.svg",
+    title: "Milk Shakes",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "10,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 32,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468597/allproducts8_gw7zr0.svg",
+    title: "Classic Fries",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "10,000",
+    duration: "15-20mins",
+
+  },
+  {
+    _id: 33,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468592/allproduct9_ancgb2.svg",
+    title:"Cheese Burger",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "10,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 34,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468590/allproducts7_tpedt7.svg",
+    title: "Chicken Tender",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "10,000",
+    duration: "15-20mins",
+  },
+  {
+    _id: 35,
+    image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741468588/allproducts6_n05mip.svg",
+    title: "Bottled Water",
+    ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
+    rating: "5.0",
+    price: "10,000",
+    duration: "15-20mins",
+  },
+ ]
 
  export const salads =
  [
   {
-    _id: 27,
+    _id: 36,
     image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741487516/Salad4_cnjmnp.svg",
     title:"Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:"5.0",
-    price: "10000",
+    price: "10,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "salads",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   {
-    _id: 28,
+    _id: 37,
     image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741487456/Salad1_mnut5c.svg",
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10000",
+    price: "10.000",
     duration: "15-20min",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "salads",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
   {
-    _id: 29,
+    _id: 38,
     image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741487456/Salad2_kcenx3.svg",
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10000",
+    price: "10,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "salads",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
 
   },
   {
-    _id: 30,
+    _id: 39,
     image: "https://res.cloudinary.com/ds0a0s3k3/image/upload/v1741487456/Salad1_mnut5c.svg",
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10000",
+    price: "10,000",
     duration: "15-20mins",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nam impedit qui illum architecto doloremque. Quae adipisci deleniti asperiores praesentium eaque, voluptates similique accusantium omnis ducimus facere debitis repellendus quidem unde aperiam laboriosam ratione repellat quis dolorum itaque! Placeat odio similique nulla, dolores minus rem impedit dolorum hic. Sequi, hic.",
+    category: "salads",
+    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
   },
  ]

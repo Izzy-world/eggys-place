@@ -1,22 +1,23 @@
 import React, { useContext, useState} from "react";
 import { burgers, Combos, drinks, chickens, chips, salads } from "../product";
+import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { toast } from "sonner";
 import CartContext from "../context/CartContext";
 
 const Products = () => {
   const [selectedCategorys, setSelectedCategory] = useState(burgers);
-  const {handleAddToCart} = useContext(CartContext)
+  const { handleAddToCart } = useContext(CartContext);
 
   return (
     <>
       {/* Product Section */}
-      <section className="md:hidden flex justify-between w-full rounded-[101px] bg-[#252422] p-6">
-        <div className="carousel carousel-center lg:w-full space-x-24 px-8 w-full">
+      <section className="  flex justify-between w-full rounded-[101px] bg-[#252422] my-9 p-6">
+        <div className="carousel carousel-center flex lg:w-full space-x-24 px-8">
           <a
             onClick={() => setSelectedCategory(burgers)}
             href="#burger"
-            className="carousel-item flex flex-col items-center text-[25px] text-[#aeaea7] hover:text-white opacity-70 hover:opacity-100"
+            className="carousel-item flex flex-col items-center text-[25px] text-[#aeaea7] hover:text-white  hover:opacity-100"
           >
             <img
               src="https://res.cloudinary.com/diww44oar/image/upload/v1741223929/burger_xepnzf.svg"
@@ -26,7 +27,7 @@ const Products = () => {
           </a>
           <a
             onClick={() => setSelectedCategory(Combos)}
-            href="#Combos"
+            href="#combos"
             className="carousel-item flex flex-col items-center text-[25px] text-[#aeaea7] hover:text-white opacity-70 hover:opacity-100"
           >
             <img
@@ -83,8 +84,8 @@ const Products = () => {
       </section>
 
       {/* Section-2 */}
-      <section className="w-full min-h-screen px-[20px] md:px-[80px] py-[10px] lg:px-[130px] lg:py-[16px] flex justify-center bg-[#2F2F2F]">
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 lg:gap-y-[20px] lg:gap-x-[8px] gap-[20px] w-full max-w-[1440px]">
+      <section className="container mx-auto my-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 lg:gap-y-[54px] lg:gap-x-[15px] gap-[44.46px] md:w-full">
           {selectedCategorys.map((product) => {
             const { _id, image, title, ratingicon, rating, price, duration } = product;
 
@@ -96,10 +97,9 @@ const Products = () => {
                       <img src={image} alt={title} className="product-image" />
                     </figure>
                   </Link>
-
-                  {/* Card Body */}
+                  {/* card body div */}
                   <div className="card-body">
-                    {/* Title and Rating */}
+                    {/* div  for title and rating icon  */}
                     <div className="flex justify-between">
                       <h2 className="card-title text-[20px] font-[500] leading-[100%]">
                         {title}
@@ -109,7 +109,7 @@ const Products = () => {
                         <figcaption>{rating}</figcaption>
                       </figure>
                     </div>
-                    {/* Price & Duration */}
+                    {/* div for price & and duration  */}
                     <div className="flex place-items-center justify-between">
                       <h3 className="text-[#B67B0F] text-[31px] lg:whitespace-nowrap">
                         <span className="text-[15px]">&#8358;</span> {price}
@@ -118,14 +118,14 @@ const Products = () => {
                         {duration}
                       </h5>
                     </div>
-                    {/* Add to Cart Button */}
+                    {/* Add to Cart Div */}
                     <div className="card-actions justify-end">
                       <button
                         onClick={() =>{handleAddToCart(product) , toast.success('Item added') } }
-                        className="bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base cursor-pointer"
+                        className=" bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base cursor-pointer "
                       >
                         Add to Cart
-                      </button> 
+                      </button>
                     </div>
                   </div>
                 </div>

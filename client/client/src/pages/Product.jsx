@@ -1,20 +1,36 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
-import { burgers } from '../product';
+import { useParams, useNavigate } from 'react-router-dom';
+import { burgers, drinks, salads, chickens, Combos, chips } from '../product';
 
+const allProducts = { burgers, drinks, salads, chickens, Combos, chips };
 
 const Product = () => {
     const { id } = useParams();
+    const navigate = useNavigate();
     const [product, setProduct] = useState(null);
+    const [category, setCategory] = useState(null);
 
     useEffect(() => {
-        const selectedProduct = burgers.find((item) => item._id == id);
-        setProduct(selectedProduct);
-    }, [id]); // Trigger re-fetch when id changes
+        let foundProduct = null;
+        let foundCategory = null;
+
+        Object.keys(allProducts).forEach((cat) => {
+            const item = allProducts[cat].find((prod) => prod._id.toString() === id);
+            if (item) {
+                foundProduct = item;
+                foundCategory = cat;
+            }
+        });
+
+        setProduct(foundProduct);
+        setCategory(foundCategory);
+    }, [id]);
 
     if (!product) return <p className="text-center text-white">Loading...</p>;
 
-    const relatedProducts = burgers.filter((item) => item._id !== id).slice(0, 3); // Show 3 related items
+    const relatedProducts = category 
+        ? allProducts[category].filter((item) => item._id.toString() !== id).slice(0, 3) 
+        : [];
 
     return (
         <main className='container mx-auto px-4 md:px-16 py-6 bg-[#2F2F2F] text-white'>
@@ -28,7 +44,7 @@ const Product = () => {
                 <div>
                     <h1 className='text-3xl font-bold mb-4'>{product.title}</h1>
                     <p className='text-gray-300'>{product.description}</p>
-                    <button  className="bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base">
+                    <button className="bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base">
                         Add to Cart
                     </button>
                 </div>
@@ -42,7 +58,7 @@ const Product = () => {
                         <div 
                             key={item._id} 
                             className='bg-[#222] p-4 rounded-lg text-center cursor-pointer'
-                            onClick={() => window.location.href = `/product/${item._id}`} // Navigate to new product
+                            onClick={() => navigate(`/product/${item._id}`)} // Fixed navigation
                         >
                             <img src={item.image} alt={item.title} className='rounded-lg mb-4' />
                             <h3 className='text-xl font-medium'>{item.title}</h3>
