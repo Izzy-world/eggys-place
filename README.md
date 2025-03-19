@@ -49,4 +49,4 @@ Desktop design:
   src="https://res.cloudinary.com/eguono/image/upload/v1741087060/eggys-place/hero-img-png_sdu6hz.png"
   alt="Alt text"
   title="desktop-view"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px">                              

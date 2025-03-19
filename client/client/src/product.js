@@ -8,10 +8,12 @@ export const burgers =
       title: "Cheese burger",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "10,000",
+      price: "10000",
       duration: "15-20mins",
       category: "burgers",
-      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+      description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
     },
 
     {
@@ -20,10 +22,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating:"5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",  
         category: "burgers",
-        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+        description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
     },
 
     {
@@ -32,10 +36,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
 
       {
@@ -44,10 +50,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
 
       {
@@ -56,10 +64,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
 
       {
@@ -68,10 +78,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
 
       {
@@ -80,10 +92,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
 
       {
@@ -92,10 +106,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10,000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       },
       
       {
@@ -104,10 +120,12 @@ export const burgers =
         title: "Cheese burger",
         ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
         rating: "5.0",
-        price: "10.000",
+        price: "10000",
         duration: "15-20mins",
          category: "burgers",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+         description: "Sink your teeth into our mouthwatering burgers, crafted with the perfect balance of flavors and textures. Each bite delivers a juicy, perfectly seasoned beef patty made from 100% grass-fed beef, topped with creamy melted cheese, crisp iceberg lettuce, vine-ripened tomatoes, crunchy dill pickles, and caramelized onions for a hint of sweetness. All this deliciousness is drizzled with our tangy, house-made special sauce and nestled in a soft, freshly toasted sesame bun. With just 450 calories, it’s the perfect indulgence!",
+
+
       }
 ]
 
@@ -119,10 +137,10 @@ export const Combos =
     title: "Combo",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "Combos",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Can’t decide what to order? Get the best of everything with our delicious combos! Whether it’s a juicy burger paired with crispy fries, tender chicken wings with a refreshing drink, or a perfectly balanced meal that satisfies all your cravings, our combos are designed to give you maximum flavor at the best value. Carefully curated to complement each other, every combo is a feast that guarantees satisfaction. Why settle for one when you can have it all?",
 
   },
 
@@ -132,10 +150,11 @@ export const Combos =
      title: "Combo",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price: "15,000",
+     price: "15000",
      duration: "15-20mins",
      category: "Combos",
-     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+     description:"Can’t decide what to order? Get the best of everything with our delicious combos! Whether it’s a juicy burger paired with crispy fries, tender chicken wings with a refreshing drink, or a perfectly balanced meal that satisfies all your cravings, our combos are designed to give you maximum flavor at the best value. Carefully curated to complement each other, every combo is a feast that guarantees satisfaction. Why settle for one when you can have it all?",
+
   },
 
   {
@@ -144,10 +163,11 @@ export const Combos =
      title: "Combo",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price:  "15,000",
+     price:  "15000",
      duration: "15-20mins",
      category: "Combos",
-     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+     description:"Can’t decide what to order? Get the best of everything with our delicious combos! Whether it’s a juicy burger paired with crispy fries, tender chicken wings with a refreshing drink, or a perfectly balanced meal that satisfies all your cravings, our combos are designed to give you maximum flavor at the best value. Carefully curated to complement each other, every combo is a feast that guarantees satisfaction. Why settle for one when you can have it all?",
+
   },
   {
       _id: 13,
@@ -155,10 +175,11 @@ export const Combos =
       title: "Combo",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "15,000",
+      price: "15000",
       duration: "15-20mins",
-      category: "salads",
-      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+      category: "Combos",
+      description:"Can’t decide what to order? Get the best of everything with our delicious combos! Whether it’s a juicy burger paired with crispy fries, tender chicken wings with a refreshing drink, or a perfectly balanced meal that satisfies all your cravings, our combos are designed to give you maximum flavor at the best value. Carefully curated to complement each other, every combo is a feast that guarantees satisfaction. Why settle for one when you can have it all?",
+
       
   },
   
@@ -172,10 +193,10 @@ export const Combos =
       title: "Chicken",
       ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
       rating: "5.0",
-      price: "15,000",
+      price: "15000",
       duration: "15-20mins",
       category: "chicken",
-      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+      description:"Golden and crispy on the outside, tender and juicy on the inside—our chicken is nothing short of legendary. Every piece is carefully seasoned with a secret blend of spices, marinated for hours, and fried to perfection for that unbeatable crunch. Whether you prefer it spicy or classic, our chicken is always hot, fresh, and packed with bold flavors. Pair it with our signature sauces for an unforgettable taste experience. This is chicken done right!",
 
   },
   {
@@ -184,10 +205,10 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration:  "15-20mins",
     category: "chicken",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Golden and crispy on the outside, tender and juicy on the inside—our chicken is nothing short of legendary. Every piece is carefully seasoned with a secret blend of spices, marinated for hours, and fried to perfection for that unbeatable crunch. Whether you prefer it spicy or classic, our chicken is always hot, fresh, and packed with bold flavors. Pair it with our signature sauces for an unforgettable taste experience. This is chicken done right!",
 
   },
   {
@@ -196,10 +217,11 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "chicken",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Golden and crispy on the outside, tender and juicy on the inside—our chicken is nothing short of legendary. Every piece is carefully seasoned with a secret blend of spices, marinated for hours, and fried to perfection for that unbeatable crunch. Whether you prefer it spicy or classic, our chicken is always hot, fresh, and packed with bold flavors. Pair it with our signature sauces for an unforgettable taste experience. This is chicken done right!",
+
   },
   {
     _id: 17,
@@ -207,10 +229,11 @@ export const Combos =
     title: "Chicken",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "chicken",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Golden and crispy on the outside, tender and juicy on the inside—our chicken is nothing short of legendary. Every piece is carefully seasoned with a secret blend of spices, marinated for hours, and fried to perfection for that unbeatable crunch. Whether you prefer it spicy or classic, our chicken is always hot, fresh, and packed with bold flavors. Pair it with our signature sauces for an unforgettable taste experience. This is chicken done right!",
+
 
   },
   
@@ -225,10 +248,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "drinks",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Quench your thirst with our refreshing range of beverages, carefully curated to complement your meal. From ice-cold sodas to freshly squeezed fruit juices and creamy milkshakes, we have something to satisfy every craving. Whether you need an energy boost from our rich, aromatic coffee or a relaxing sip of herbal tea, our drinks are served at the perfect temperature and made with premium ingredients. Every sip is a burst of pure refreshment, keeping you cool and satisfied all day long!",
+
 
   },
   {
@@ -237,10 +261,11 @@ export const Combos =
      title: "Drinks",
      ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
      rating: "5.0",
-     price: "15,000",
+     price: "15000",
      duration: "15-20mins",
      category: "drinks",
-     description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+     description:"Quench your thirst with our refreshing range of beverages, carefully curated to complement your meal. From ice-cold sodas to freshly squeezed fruit juices and creamy milkshakes, we have something to satisfy every craving. Whether you need an energy boost from our rich, aromatic coffee or a relaxing sip of herbal tea, our drinks are served at the perfect temperature and made with premium ingredients. Every sip is a burst of pure refreshment, keeping you cool and satisfied all day long!",
+
 
   },
   {
@@ -249,10 +274,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "drinks",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Quench your thirst with our refreshing range of beverages, carefully curated to complement your meal. From ice-cold sodas to freshly squeezed fruit juices and creamy milkshakes, we have something to satisfy every craving. Whether you need an energy boost from our rich, aromatic coffee or a relaxing sip of herbal tea, our drinks are served at the perfect temperature and made with premium ingredients. Every sip is a burst of pure refreshment, keeping you cool and satisfied all day long!",
+
 
   },
 
@@ -262,10 +288,12 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "drinks",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Quench your thirst with our refreshing range of beverages, carefully curated to complement your meal. From ice-cold sodas to freshly squeezed fruit juices and creamy milkshakes, we have something to satisfy every craving. Whether you need an energy boost from our rich, aromatic coffee or a relaxing sip of herbal tea, our drinks are served at the perfect temperature and made with premium ingredients. Every sip is a burst of pure refreshment, keeping you cool and satisfied all day long!",
+
+
 
   },
   {
@@ -274,10 +302,11 @@ export const Combos =
     title: "Drinks",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5,0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     category: "drinks",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Quench your thirst with our refreshing range of beverages, carefully curated to complement your meal. From ice-cold sodas to freshly squeezed fruit juices and creamy milkshakes, we have something to satisfy every craving. Whether you need an energy boost from our rich, aromatic coffee or a relaxing sip of herbal tea, our drinks are served at the perfect temperature and made with premium ingredients. Every sip is a burst of pure refreshment, keeping you cool and satisfied all day long!",
+
 
   }
 
@@ -291,10 +320,12 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:"5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     chips: "chips",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Crispy, golden, and absolutely irresistible—our chips are made from the finest potatoes, hand-cut and fried to perfection. Each batch is lightly seasoned with just the right amount of salt and served piping hot for that perfect crunch. Whether you dip them in ketchup, drench them in cheese, or enjoy them with our signature sauces, every bite is pure satisfaction. These fries aren’t just a side dish; they’re the main event!",
+
+
   },
   {
     _id: 24,
@@ -302,10 +333,12 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     chips: "chips",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Crispy, golden, and absolutely irresistible—our chips are made from the finest potatoes, hand-cut and fried to perfection. Each batch is lightly seasoned with just the right amount of salt and served piping hot for that perfect crunch. Whether you dip them in ketchup, drench them in cheese, or enjoy them with our signature sauces, every bite is pure satisfaction. These fries aren’t just a side dish; they’re the main event!",
+
+
   },
   {
     _id: 25,
@@ -313,10 +346,12 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     chips: "chips",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Crispy, golden, and absolutely irresistible—our chips are made from the finest potatoes, hand-cut and fried to perfection. Each batch is lightly seasoned with just the right amount of salt and served piping hot for that perfect crunch. Whether you dip them in ketchup, drench them in cheese, or enjoy them with our signature sauces, every bite is pure satisfaction. These fries aren’t just a side dish; they’re the main event!",
+
+
   },
   {
     _id: 26,
@@ -324,10 +359,12 @@ export const Combos =
     title: "Chips",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:  "5.0",
-    price: "15,000",
+    price: "15000",
     duration: "15-20mins",
     chips: "chips",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Crispy, golden, and absolutely irresistible—our chips are made from the finest potatoes, hand-cut and fried to perfection. Each batch is lightly seasoned with just the right amount of salt and served piping hot for that perfect crunch. Whether you dip them in ketchup, drench them in cheese, or enjoy them with our signature sauces, every bite is pure satisfaction. These fries aren’t just a side dish; they’re the main event!",
+
+
   }
  ]
 
@@ -385,7 +422,7 @@ export const Combos =
     title: "Classic Fries",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
 
   },
@@ -395,7 +432,7 @@ export const Combos =
     title:"Cheese Burger",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
   },
   {
@@ -404,7 +441,7 @@ export const Combos =
     title: "Chicken Tender",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
   },
   {
@@ -413,7 +450,7 @@ export const Combos =
     title: "Bottled Water",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
   },
  ]
@@ -426,11 +463,10 @@ export const Combos =
     title:"Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating:"5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
     category: "salads",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
-
+    description:"Fresh, healthy, and bursting with flavor—our salads are made with the finest farm-to-table ingredients. Crisp lettuce, juicy cherry tomatoes, crunchy cucumbers, and a medley of colorful vegetables come together to create a refreshing and nutritious dish. Topped with grilled chicken, roasted nuts, or creamy feta cheese, our salads are drizzled with homemade dressings that bring out every delicious note. Whether you're looking for a light meal or the perfect side, our salads are the perfect choice!",
   },
   {
     _id: 37,
@@ -438,10 +474,10 @@ export const Combos =
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10.000",
+    price: "10000",
     duration: "15-20min",
     category: "salads",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Fresh, healthy, and bursting with flavor—our salads are made with the finest farm-to-table ingredients. Crisp lettuce, juicy cherry tomatoes, crunchy cucumbers, and a medley of colorful vegetables come together to create a refreshing and nutritious dish. Topped with grilled chicken, roasted nuts, or creamy feta cheese, our salads are drizzled with homemade dressings that bring out every delicious note. Whether you're looking for a light meal or the perfect side, our salads are the perfect choice!",
   },
   {
     _id: 38,
@@ -449,11 +485,10 @@ export const Combos =
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
     category: "salads",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
-
+    description:"Fresh, healthy, and bursting with flavor—our salads are made with the finest farm-to-table ingredients. Crisp lettuce, juicy cherry tomatoes, crunchy cucumbers, and a medley of colorful vegetables come together to create a refreshing and nutritious dish. Topped with grilled chicken, roasted nuts, or creamy feta cheese, our salads are drizzled with homemade dressings that bring out every delicious note. Whether you're looking for a light meal or the perfect side, our salads are the perfect choice!",
   },
   {
     _id: 39,
@@ -461,9 +496,9 @@ export const Combos =
     title: "Salad",
     ratingicon:"https://res.cloudinary.com/diww44oar/image/upload/v1741230955/star-icon_bvqi9b.svg",
     rating: "5.0",
-    price: "10,000",
+    price: "10000",
     duration: "15-20mins",
     category: "salads",
-    description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quasi recusandae, vitae vel aliquam saepe quod doloremque atque reiciendis, corrupti vero temporibus iste voluptatum magnam architecto nesciunt. Architecto repudiandae laudantium praesentium omnis ducimus, dolor doloribus odit necessitatibus corrupti consectetur dolorum, quasi esse incidunt eos cupiditate rerum exercitationem corporis accusamus laborum."
+    description:"Fresh, healthy, and bursting with flavor—our salads are made with the finest farm-to-table ingredients. Crisp lettuce, juicy cherry tomatoes, crunchy cucumbers, and a medley of colorful vegetables come together to create a refreshing and nutritious dish. Topped with grilled chicken, roasted nuts, or creamy feta cheese, our salads are drizzled with homemade dressings that bring out every delicious note. Whether you're looking for a light meal or the perfect side, our salads are the perfect choice!",
   },
  ]
