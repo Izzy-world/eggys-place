@@ -1,12 +1,15 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useContext } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { burgers, drinks, salads, chickens, Combos, chips } from '../product';
+import CartContext from '../context/CartContext';
+import { toast } from "sonner";
 
 const allProducts = { burgers, drinks, salads, chickens, Combos, chips };
 
 const Product = () => {
     const { id } = useParams();
     const navigate = useNavigate();
+    const { handleAddToCart } = useContext(CartContext);  // ✅ Use handleAddToCart from context
     const [product, setProduct] = useState(null);
     const [category, setCategory] = useState(null);
 
@@ -44,7 +47,10 @@ const Product = () => {
                 <div>
                     <h1 className='text-3xl font-bold mb-4'>{product.title}</h1>
                     <p className='text-gray-300'>{product.description}</p>
-                    <button className="bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base">
+                    <button 
+                        className="bg-[#B67B0F] leading-[100%] w-full rounded-[31px] lg:whitespace-nowrap py-[15px] px-[56px] md:text-base mt-4"
+                        onClick={() =>{handleAddToCart(product) , toast.success('Item added') } }  // ✅ Use handleAddToCart
+                    >
                         Add to Cart
                     </button>
                 </div>
@@ -58,10 +64,20 @@ const Product = () => {
                         <div 
                             key={item._id} 
                             className='bg-[#222] p-4 rounded-lg text-center cursor-pointer'
-                            onClick={() => navigate(`/product/${item._id}`)} // Fixed navigation
                         >
-                            <img src={item.image} alt={item.title} className='rounded-lg mb-4' />
+                            <img 
+                                src={item.image} 
+                                alt={item.title} 
+                                className='rounded-lg mb-4'
+                                onClick={() => navigate(`/product/${item._id}`)} // Navigate to product page
+                            />
                             <h3 className='text-xl font-medium'>{item.title}</h3>
+                            <button 
+                                className="mt-2 bg-yellow-500 text-black px-3 py-1 rounded"
+                               onClick={() =>{handleAddToCart(product) , toast.success('Item added') } }  // ✅ Use handleAddToCart
+                            >
+                                Add to Cart
+                            </button>
                         </div>
                     ))}
                 </div>

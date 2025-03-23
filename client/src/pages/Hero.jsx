@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="absolute inset-0 bg-opacity-50"></div>
 
         {/* Content */}
-        <div className="relative z-10 text-center text-white max-w-2xl">
+        <div className="relative z-10 text-center text-white max-w-2xl animate__animated animate__backInUp">
           <h1 className="text-4xl md:text-5xl text-[#FBFBFB] font-RedHat font-[400]">
             The <span className="text-[#B67B0F] font-[500] font-Rammetto">ZING</span> in every bite
           </h1>

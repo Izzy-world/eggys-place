@@ -1,5 +1,5 @@
 import React from 'react'
-import footer from "../assets/footer-img.svg"
+import eggysLogo from "../assets/eggys-logo.svg"
 import twitter from "../assets/twitter icon.svg"
 import facebook from "../assets/facebook icon.svg"
 import twitterIcon2 from "../assets/twitter icon-2.svg"
@@ -12,7 +12,7 @@ const Footer = () => {
       <footer className="bg-[#100101] text-white py-6 h-full">
         <div className="container mx-auto flex flex-col items-center text-center md:flex-row md:justify-between px-[20px] md:px-[80px] lg:px-[130px]">
           {/* Logo */}
-          <img src={footer} alt="Logo" className="h-12 bg-[#100101]" />
+          <img src={eggysLogo} alt="eggys-Logo" className="h-12 bg-[#100101]" />
 
           {/* Navigation Links */}
           <nav className="flex space-x-6 text-sm mt-4 md:mt-0">
@@ -48,7 +48,7 @@ const Footer = () => {
         {/* Copyright & Privacy Policy - Moved into a flex container */}
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center text-xs text-gray-400 mt-2 px-[20px] md:px-[80px] lg:px-[130px]">
           {/* Left - Copyright Text (aligned with logo) */}
-          <p className="text-left md:text-left w-full md:w-auto">TM & Copyright 2025 Jazzy Corporation. All Rights Reserved.</p>
+          <p className="text-left md:text-left w-full md:w-auto">TM & Copyright 2025 Eggys Corporation. All Rights Reserved.</p>
           
           {/* Right - Privacy Policy */}
           <a href="#" className="text-right hover:underline mt-2 md:mt-0 w-full md:w-auto">Privacy Policy</a>
